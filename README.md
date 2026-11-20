@@ -40,5 +40,3 @@ Seu site ficará em:
 - [SQL](https://github.com/Paulopelicer/SQL)
 - [Python_Fundamentals_DSA](https://github.com/Paulopelicer/Python_Fundamentals_DSA)
 - [Projeto-Individual-SPTECH](https://github.com/Paulopelicer/Projeto-Individual-SPTECH)
-
-O repositório privado `stf_pss_da_agent` não é exposto no portfólio público.
